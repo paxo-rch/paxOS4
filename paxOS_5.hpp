@@ -6,7 +6,6 @@ using namespace std;
 #include "apps/apps.hpp"
 #include "graphics/graphics.hpp"
 #include "hardware/hardware.hpp"
-#include "libraries/libraries.hpp"
 #include "widgets/widgets.hpp"
 #include "tasks/task.hpp"
 #include <stdlib.h>
